@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 47740f7110a34c84ebe9d95ec33c630e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: group_2
+    100010: group_3
+    100012: group_4
+    100014: group_5
+    100016: group_5 1
+    100018: group_5 2
+    100020: group_5 3
+    100022: group_6
+    100024: group_6 1
+    100026: group_6 2
+    100028: group_6 3
+    100030: group_7
+    100032: group_8
+    100034: group_9
+    100036: Groupe_1170
+    100038: Groupe_895
+    100040: Groupe_905
+    100042: Groupe_925
+    100044: Groupe_925 1
+    100046: Groupe_925 2
+    100048: Groupe_925 3
+    100050: Groupe_939
+    100052: ID122
+    100054: ID128
+    100056: ID134
+    100058: ID140
+    100060: ID16
+    100062: ID39
+    100064: ID70
+    100066: ID70 1
+    100068: ID70 2
+    100070: ID70 3
+    100072: ID86
+    100074: instance_0
+    100076: instance_1
+    100078: instance_2
+    100080: instance_3
+    100082: instance_4
+    100084: instance_5
+    100086: instance_6
+    100088: instance_7
+    100090: instance_8
+    100092: mobilier_bureau_1
+    100094: //RootNode
+    100096: skp_camera_Last_Saved_SketchUp_View
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: group_2
+    400010: group_3
+    400012: group_4
+    400014: group_5
+    400016: group_5 1
+    400018: group_5 2
+    400020: group_5 3
+    400022: group_6
+    400024: group_6 1
+    400026: group_6 2
+    400028: group_6 3
+    400030: group_7
+    400032: group_8
+    400034: group_9
+    400036: Groupe_1170
+    400038: Groupe_895
+    400040: Groupe_905
+    400042: Groupe_925
+    400044: Groupe_925 1
+    400046: Groupe_925 2
+    400048: Groupe_925 3
+    400050: Groupe_939
+    400052: ID122
+    400054: ID128
+    400056: ID134
+    400058: ID140
+    400060: ID16
+    400062: ID39
+    400064: ID70
+    400066: ID70 1
+    400068: ID70 2
+    400070: ID70 3
+    400072: ID86
+    400074: instance_0
+    400076: instance_1
+    400078: instance_2
+    400080: instance_3
+    400082: instance_4
+    400084: instance_5
+    400086: instance_6
+    400088: instance_7
+    400090: instance_8
+    400092: mobilier_bureau_1
+    400094: //RootNode
+    400096: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: Color_M07
+    2100004: Color_M08
+    2300000: group_0
+    2300002: group_10
+    2300004: group_11
+    2300006: group_2
+    2300008: group_3
+    2300010: group_5
+    2300012: group_5 1
+    2300014: group_5 2
+    2300016: group_5 3
+    2300018: group_6
+    2300020: group_6 1
+    2300022: group_6 2
+    2300024: group_6 3
+    2300026: group_7
+    2300028: group_9
+    2300030: Groupe_1170
+    2300032: Groupe_895
+    2300034: Groupe_905
+    2300036: Groupe_939
+    2300038: ID122
+    2300040: ID128
+    2300042: ID134
+    2300044: ID140
+    2300046: ID16
+    2300048: ID39
+    2300050: ID70
+    2300052: ID70 1
+    2300054: ID70 2
+    2300056: ID70 3
+    2300058: ID86
+    3300000: group_0
+    3300002: group_10
+    3300004: group_11
+    3300006: group_2
+    3300008: group_3
+    3300010: group_5
+    3300012: group_5 1
+    3300014: group_5 2
+    3300016: group_5 3
+    3300018: group_6
+    3300020: group_6 1
+    3300022: group_6 2
+    3300024: group_6 3
+    3300026: group_7
+    3300028: group_9
+    3300030: Groupe_1170
+    3300032: Groupe_895
+    3300034: Groupe_905
+    3300036: Groupe_939
+    3300038: ID122
+    3300040: ID128
+    3300042: ID134
+    3300044: ID140
+    3300046: ID16
+    3300048: ID39
+    3300050: ID70
+    3300052: ID70 1
+    3300054: ID70 2
+    3300056: ID70 3
+    3300058: ID86
+    4300000: Groupe_1170
+    4300002: group_0
+    4300004: ID16
+    4300006: group_2
+    4300008: group_3
+    4300010: ID39
+    4300012: Groupe_905
+    4300014: group_5
+    4300016: ID70
+    4300018: group_6
+    4300020: group_7
+    4300022: ID86
+    4300024: group_9
+    4300026: group_10
+    4300028: group_11
+    4300030: ID122
+    4300032: ID128
+    4300034: ID134
+    4300036: ID140
+    4300038: Groupe_895
+    4300040: Groupe_939
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
